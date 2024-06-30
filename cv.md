@@ -8,11 +8,14 @@
     Get a position as a novice frontend developer.
 ## Education:
 * 2024 to present
+
     Rolling Scopes School. Student of JS/FE Stage#0.
 * 2023 to present
+
     Saint Petersburg State Électrotechnical University "LETI" ETU.
     Student of Infocommunication Technologies and Communication Systems.
 * 2019 - 2023
+
     Saint Petersburg State Electrotechnical University "LETI" ETU.
     Bachelor's Degree in Infocommunication Technologies and Communication Systems.
 ## Language:
