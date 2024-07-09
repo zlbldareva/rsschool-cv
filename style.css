@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+  }
+@font-face {
+    font-family: "Roboto";
+    src: url("assets/fonts/RobotoMono-Italic-VariableFont_wght.ttf");
+ }
+@font-face {
+    font-family: "Oswald";
+    src: url("assets/fonts/Oswald-VariableFont_wght.ttf");
+ }
+ body{
+    font-family: 'Roboto';
+    font-size: 16px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(51, 51, 95);
+    text-align: center;
+ }
+ h1, h2{
+    font-family: 'Oswald';
+    font-size: 24px;
+    color: white;
+    text-align: center;
+ }
+ .container {
+    max-width: 1440px;
+    margin: 0 auto;
+ }
+ p, ul, a{
+    color: white;
+    text-align: left;
+ }
+ .photo{
+    width: 270px;
+    height: 360px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+ }
+ .nav-list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;    
+  }
+ 
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  .end
+  {
+    font-size: 16px;
+  }
+.logo{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+header{
+   background-color: rgb(37, 37, 68);
+}
+.main{
+   text-align: center;
+}
